@@ -151,5 +151,6 @@ The main objective of this project is to automate the loan eligibility checking 
 
 ![Interface](interface.png)
 
- - interface.png
->>>>>>> 26368a28e812af7268a907d23ffe229cc4b25628
+# 🚀 Live Demo
+
+🔗 https://harjeetsingh-123-loan-approval-prediction-system-app-8d7k71.streamlit.app/
