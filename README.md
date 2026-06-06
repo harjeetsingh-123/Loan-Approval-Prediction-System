@@ -141,3 +141,11 @@ The main objective of this project is to automate the loan eligibility checking 
 - Python Programming
 - Scikit-Learn Workflow
 - End-to-End ML Project Development
+
+# 🖥️ Application Interface
+# 🖥️ Application Interface
+# 🖥️ Application Interface
+
+![Interface](interface.png)
+
+ - interface.png
